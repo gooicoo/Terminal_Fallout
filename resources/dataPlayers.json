@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Alba",
+        "fallos": "0",
+        "tiempo": "00:01",
+        "dificultad": "A"
+    },
+    {
+        "nombre": "AlbaONFireeee",
+        "fallos": "3",
+        "tiempo": "00:03",
+        "dificultad": "B"
+    },
+    {
+        "nombre": "Pepito",
+        "fallos": "3",
+        "tiempo": "00:05",
+        "dificultad": "B"
+    },
+    {
+        "nombre": "Puyolito",
+        "fallos": "0",
+        "tiempo": "00:01",
+        "dificultad": "C"
+    },
+    {
+        "nombre": "Puyol",
+        "fallos": "2",
+        "tiempo": "00:04",
+        "dificultad": "C"
+    },
+    {
+        "nombre": "David",
+        "fallos": "3",
+        "tiempo": "00:04",
+        "dificultad": "C"
+    }
+    
+]

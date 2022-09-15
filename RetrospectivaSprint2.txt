@@ -1,0 +1,13 @@
+Retrospectiva sprint 2
+
+-	Didac
+Problemas: integrar varios lenguajes que se unan entre ellos.
+Soluciones: practicar y leer más para poder realizar proyectos con más facilidad y rapidez.
+
+-	Alba
+Problemas: falta de conocimiento sobre CSS.
+Soluciones: picar código para tener más agilidad a la hora de maquetar una página. 
+
+-	Roger
+Problemas: limitar recursos a la hora de realizar el proyecto.
+Solución: encontrar recursos para hacer lo mismo que con otras herramientas.
