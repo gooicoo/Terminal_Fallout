@@ -1,9 +1,3 @@
-----------------------------------INTEGRANTES---------------------------------
-
--Didac López-Goicochea Estébanez<br>
--Alba Navarro Manzano<br>
--Roger Carballo Rodríguez<br>
-
 ----------------------------------REQUISITOS----------------------------------
 
 Para poder arrancar dicha aplicacion se necesitan estos requisitos:<br>
